@@ -1,0 +1,6 @@
+Downloading/unpacking django
+  Cannot fetch index base URL https://pypi.python.org/simple/
+  Could not find any downloads that satisfy the requirement django
+Cleaning up...
+No distributions at all found for django
+Storing debug log for failure in C:\Users\Nathalia\pip\pip.log
